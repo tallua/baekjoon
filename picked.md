@@ -1,3 +1,12 @@
+## 2022/01/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2744](https://www.acmicpc.net/problem/2744) | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17829](https://www.acmicpc.net/problem/17829) | [222-풀링](https://www.acmicpc.net/problem/17829) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17610](https://www.acmicpc.net/problem/17610) | [양팔저울](https://www.acmicpc.net/problem/17610) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [16118](https://www.acmicpc.net/problem/16118) | [달빛 여우](https://www.acmicpc.net/problem/16118) |
+
 ## 2022/01/17 
 
 | 난이도 | 번호 | 문제 이름 |
