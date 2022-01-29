@@ -1,3 +1,12 @@
+## 2022/01/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [11720](https://www.acmicpc.net/problem/11720) | [숫자의 합](https://www.acmicpc.net/problem/11720) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [8983](https://www.acmicpc.net/problem/8983) | [사냥꾼](https://www.acmicpc.net/problem/8983) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11562](https://www.acmicpc.net/problem/11562) | [백양로 브레이크](https://www.acmicpc.net/problem/11562) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [13911](https://www.acmicpc.net/problem/13911) | [집 구하기](https://www.acmicpc.net/problem/13911) |
+
 ## 2022/01/29 
 
 | 난이도 | 번호 | 문제 이름 |
