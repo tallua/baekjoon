@@ -1,3 +1,12 @@
+## 2022/02/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [19532](https://www.acmicpc.net/problem/19532) | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17123](https://www.acmicpc.net/problem/17123) | [배열 놀이](https://www.acmicpc.net/problem/17123) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [10164](https://www.acmicpc.net/problem/10164) | [격자상의 경로](https://www.acmicpc.net/problem/10164) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20061](https://www.acmicpc.net/problem/20061) | [모노미노도미노 2](https://www.acmicpc.net/problem/20061) |
+
 ## 2022/02/07 
 
 | 난이도 | 번호 | 문제 이름 |
