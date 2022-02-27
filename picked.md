@@ -1,3 +1,12 @@
+## 2022/02/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1018](https://www.acmicpc.net/problem/1018) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9663](https://www.acmicpc.net/problem/9663) | [N-Queen](https://www.acmicpc.net/problem/9663) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1135](https://www.acmicpc.net/problem/1135) | [뉴스 전하기](https://www.acmicpc.net/problem/1135) |
+
 ## 2022/02/27 
 
 | 난이도 | 번호 | 문제 이름 |
