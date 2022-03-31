@@ -1,3 +1,12 @@
+## 2022/04/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9012](https://www.acmicpc.net/problem/9012) | [괄호](https://www.acmicpc.net/problem/9012) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20495](https://www.acmicpc.net/problem/20495) | [수열과 헌팅](https://www.acmicpc.net/problem/20495) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [10942](https://www.acmicpc.net/problem/10942) | [팰린드롬?](https://www.acmicpc.net/problem/10942) |
+
 ## 2022/03/31 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -31,7 +40,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2805](https://www.acmicpc.net/problem/2805) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11660](https://www.acmicpc.net/problem/11660) | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22866](https://www.acmicpc.net/problem/22866) | [탑 보기](https://www.acmicpc.net/problem/22866) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22866](https://www.acmicpc.net/problem/22866) | [탑 보기](https://www.acmicpc.net/problem/22866) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2933](https://www.acmicpc.net/problem/2933) | [미네랄](https://www.acmicpc.net/problem/2933) |
 
 ## 2022/03/27 
