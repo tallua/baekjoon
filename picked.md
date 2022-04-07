@@ -1,3 +1,12 @@
+## 2022/04/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9342](https://www.acmicpc.net/problem/9342) | [염색체](https://www.acmicpc.net/problem/9342) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1944](https://www.acmicpc.net/problem/1944) | [복제 로봇](https://www.acmicpc.net/problem/1944) |
+
 ## 2022/04/07 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1694,7 +1703,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16927](https://www.acmicpc.net/problem/16927) | [배열 돌리기 2](https://www.acmicpc.net/problem/16927) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3055](https://www.acmicpc.net/problem/3055) | [탈출](https://www.acmicpc.net/problem/3055) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1005](https://www.acmicpc.net/problem/1005) | [ACM Craft](https://www.acmicpc.net/problem/1005) |
