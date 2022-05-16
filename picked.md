@@ -1,3 +1,12 @@
+## 2022/05/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2776](https://www.acmicpc.net/problem/2776) | [암기왕](https://www.acmicpc.net/problem/2776) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2553](https://www.acmicpc.net/problem/2553) | [마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1068](https://www.acmicpc.net/problem/1068) | [트리](https://www.acmicpc.net/problem/1068) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2533](https://www.acmicpc.net/problem/2533) | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |
+
 ## 2022/05/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -660,7 +669,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1251](https://www.acmicpc.net/problem/1251) | [단어 나누기](https://www.acmicpc.net/problem/1251) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18243](https://www.acmicpc.net/problem/18243) | [Small World Network](https://www.acmicpc.net/problem/18243) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18243](https://www.acmicpc.net/problem/18243) | [Small World Network](https://www.acmicpc.net/problem/18243) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20152](https://www.acmicpc.net/problem/20152) | [Game Addiction](https://www.acmicpc.net/problem/20152) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [3673](https://www.acmicpc.net/problem/3673) | [나눌 수 있는 부분 수열](https://www.acmicpc.net/problem/3673) |
 
@@ -2362,7 +2371,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2503](https://www.acmicpc.net/problem/2503) | [숫자 야구](https://www.acmicpc.net/problem/2503) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18113](https://www.acmicpc.net/problem/18113) | [그르다 김가놈](https://www.acmicpc.net/problem/18113) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18243](https://www.acmicpc.net/problem/18243) | [Small World Network](https://www.acmicpc.net/problem/18243) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18243](https://www.acmicpc.net/problem/18243) | [Small World Network](https://www.acmicpc.net/problem/18243) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [12908](https://www.acmicpc.net/problem/12908) | [텔레포트 3](https://www.acmicpc.net/problem/12908) |
 
 ## 2021/08/26 
