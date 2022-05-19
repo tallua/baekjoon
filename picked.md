@@ -1,3 +1,12 @@
+## 2022/05/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [19637](https://www.acmicpc.net/problem/19637) | [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16206](https://www.acmicpc.net/problem/16206) | [롤케이크](https://www.acmicpc.net/problem/16206) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17216](https://www.acmicpc.net/problem/17216) | [가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
+
 ## 2022/05/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -470,7 +479,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2805](https://www.acmicpc.net/problem/2805) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2805](https://www.acmicpc.net/problem/2805) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11660](https://www.acmicpc.net/problem/11660) | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22866](https://www.acmicpc.net/problem/22866) | [탑 보기](https://www.acmicpc.net/problem/22866) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2933](https://www.acmicpc.net/problem/2933) | [미네랄](https://www.acmicpc.net/problem/2933) |
