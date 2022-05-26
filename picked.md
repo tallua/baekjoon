@@ -1,3 +1,12 @@
+## 2022/05/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5766](https://www.acmicpc.net/problem/5766) | [할아버지는 유명해!](https://www.acmicpc.net/problem/5766) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16564](https://www.acmicpc.net/problem/16564) | [히오스 프로게이머](https://www.acmicpc.net/problem/16564) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1943](https://www.acmicpc.net/problem/1943) | [동전 분배](https://www.acmicpc.net/problem/1943) |
+
 ## 2022/05/26 
 
 | 난이도 | 번호 | 문제 이름 |
