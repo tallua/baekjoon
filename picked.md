@@ -1,3 +1,12 @@
+## 2022/06/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11502](https://www.acmicpc.net/problem/11502) | [세 개의 소수 문제](https://www.acmicpc.net/problem/11502) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1802](https://www.acmicpc.net/problem/1802) | [종이 접기](https://www.acmicpc.net/problem/1802) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2631](https://www.acmicpc.net/problem/2631) | [줄세우기](https://www.acmicpc.net/problem/2631) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1493](https://www.acmicpc.net/problem/1493) | [박스 채우기](https://www.acmicpc.net/problem/1493) |
+
 ## 2022/06/12 
 
 | 난이도 | 번호 | 문제 이름 |
