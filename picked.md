@@ -1,3 +1,12 @@
+## 2022/06/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17484](https://www.acmicpc.net/problem/17484) | [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14852](https://www.acmicpc.net/problem/14852) | [타일 채우기 3](https://www.acmicpc.net/problem/14852) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1976](https://www.acmicpc.net/problem/1976) | [여행 가자](https://www.acmicpc.net/problem/1976) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1987](https://www.acmicpc.net/problem/1987) | [알파벳](https://www.acmicpc.net/problem/1987) |
+
 ## 2022/06/27 
 
 | 난이도 | 번호 | 문제 이름 |
