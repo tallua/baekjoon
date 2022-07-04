@@ -1,3 +1,12 @@
+## 2022/07/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1463](https://www.acmicpc.net/problem/1463) | [1로 만들기](https://www.acmicpc.net/problem/1463) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20300](https://www.acmicpc.net/problem/20300) | [서강근육맨](https://www.acmicpc.net/problem/20300) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1717](https://www.acmicpc.net/problem/1717) | [집합의 표현](https://www.acmicpc.net/problem/1717) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
+
 ## 2022/07/04 
 
 | 난이도 | 번호 | 문제 이름 |
