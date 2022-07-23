@@ -1,3 +1,12 @@
+## 2022/07/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9461](https://www.acmicpc.net/problem/9461) | [파도반 수열](https://www.acmicpc.net/problem/9461) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1474](https://www.acmicpc.net/problem/1474) | [밑 줄](https://www.acmicpc.net/problem/1474) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2225](https://www.acmicpc.net/problem/2225) | [합분해](https://www.acmicpc.net/problem/2225) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2229](https://www.acmicpc.net/problem/2229) | [조 짜기](https://www.acmicpc.net/problem/2229) |
+
 ## 2022/07/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -263,7 +272,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16922](https://www.acmicpc.net/problem/16922) | [로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16922](https://www.acmicpc.net/problem/16922) | [로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1254](https://www.acmicpc.net/problem/1254) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1254) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2206](https://www.acmicpc.net/problem/2206) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
@@ -2244,7 +2253,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11561](https://www.acmicpc.net/problem/11561) | [징검다리](https://www.acmicpc.net/problem/11561) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16922](https://www.acmicpc.net/problem/16922) | [로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16922](https://www.acmicpc.net/problem/16922) | [로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2229](https://www.acmicpc.net/problem/2229) | [조 짜기](https://www.acmicpc.net/problem/2229) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2230](https://www.acmicpc.net/problem/2230) | [수 고르기](https://www.acmicpc.net/problem/2230) |
 
