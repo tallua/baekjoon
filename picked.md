@@ -1,3 +1,12 @@
+## 2022/07/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11478](https://www.acmicpc.net/problem/11478) | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17413](https://www.acmicpc.net/problem/17413) | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2023](https://www.acmicpc.net/problem/2023) | [신기한 소수](https://www.acmicpc.net/problem/2023) |
+
 ## 2022/07/28 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -813,7 +822,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1244](https://www.acmicpc.net/problem/1244) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14500](https://www.acmicpc.net/problem/14500) | [테트로미노](https://www.acmicpc.net/problem/14500) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14500](https://www.acmicpc.net/problem/14500) | [테트로미노](https://www.acmicpc.net/problem/14500) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15961](https://www.acmicpc.net/problem/15961) | [회전 초밥](https://www.acmicpc.net/problem/15961) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16986](https://www.acmicpc.net/problem/16986) | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) |
 
@@ -3505,7 +3514,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1032](https://www.acmicpc.net/problem/1032) | [명령 프롬프트](https://www.acmicpc.net/problem/1032) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15664](https://www.acmicpc.net/problem/15664) | [N과 M (10)](https://www.acmicpc.net/problem/15664) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14500](https://www.acmicpc.net/problem/14500) | [테트로미노](https://www.acmicpc.net/problem/14500) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14500](https://www.acmicpc.net/problem/14500) | [테트로미노](https://www.acmicpc.net/problem/14500) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20182](https://www.acmicpc.net/problem/20182) | [골목 대장 호석 - 효율성 1](https://www.acmicpc.net/problem/20182) |
 
 ## 2021/07/03 
