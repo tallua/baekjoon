@@ -1,3 +1,12 @@
+## 2022/08/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20053](https://www.acmicpc.net/problem/20053) | [최소, 최대 2](https://www.acmicpc.net/problem/20053) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18513](https://www.acmicpc.net/problem/18513) | [샘터](https://www.acmicpc.net/problem/18513) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
+
 ## 2022/08/07 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -605,7 +614,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10025](https://www.acmicpc.net/problem/10025) | [게으른 백곰](https://www.acmicpc.net/problem/10025) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10025](https://www.acmicpc.net/problem/10025) | [게으른 백곰](https://www.acmicpc.net/problem/10025) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20444](https://www.acmicpc.net/problem/20444) | [색종이와 가위](https://www.acmicpc.net/problem/20444) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17779](https://www.acmicpc.net/problem/17779) | [게리맨더링 2](https://www.acmicpc.net/problem/17779) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1823](https://www.acmicpc.net/problem/1823) | [수확](https://www.acmicpc.net/problem/1823) |
@@ -3962,7 +3971,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10025](https://www.acmicpc.net/problem/10025) | [게으른 백곰](https://www.acmicpc.net/problem/10025) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10025](https://www.acmicpc.net/problem/10025) | [게으른 백곰](https://www.acmicpc.net/problem/10025) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9081](https://www.acmicpc.net/problem/9081) | [단어 맞추기](https://www.acmicpc.net/problem/9081) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14267](https://www.acmicpc.net/problem/14267) | [회사 문화 1](https://www.acmicpc.net/problem/14267) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17780](https://www.acmicpc.net/problem/17780) | [새로운 게임](https://www.acmicpc.net/problem/17780) |
