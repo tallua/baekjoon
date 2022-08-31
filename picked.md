@@ -1,3 +1,12 @@
+## 2022/09/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9655](https://www.acmicpc.net/problem/9655) | [돌 게임](https://www.acmicpc.net/problem/9655) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16918](https://www.acmicpc.net/problem/16918) | [봄버맨](https://www.acmicpc.net/problem/16918) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7490](https://www.acmicpc.net/problem/7490) | [0 만들기](https://www.acmicpc.net/problem/7490) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19236](https://www.acmicpc.net/problem/19236) | [청소년 상어](https://www.acmicpc.net/problem/19236) |
+
 ## 2022/08/31 
 
 | 난이도 | 번호 | 문제 이름 |
