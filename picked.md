@@ -1,3 +1,12 @@
+## 2022/09/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15649](https://www.acmicpc.net/problem/15649) | [N과 M (1)](https://www.acmicpc.net/problem/15649) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [10844](https://www.acmicpc.net/problem/10844) | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7511](https://www.acmicpc.net/problem/7511) | [소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/7511) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2412](https://www.acmicpc.net/problem/2412) | [암벽 등반](https://www.acmicpc.net/problem/2412) |
+
 ## 2022/09/08 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1328,7 +1337,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [16171](https://www.acmicpc.net/problem/16171) | [나는 친구가 적다 (Small)](https://www.acmicpc.net/problem/16171) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17276](https://www.acmicpc.net/problem/17276) | [배열 돌리기](https://www.acmicpc.net/problem/17276) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2374](https://www.acmicpc.net/problem/2374) | [같은 수로 만들기](https://www.acmicpc.net/problem/2374) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
 
 ## 2022/04/13 
 
