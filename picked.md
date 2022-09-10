@@ -1,3 +1,12 @@
+## 2022/09/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11399](https://www.acmicpc.net/problem/11399) | [ATM](https://www.acmicpc.net/problem/11399) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11053](https://www.acmicpc.net/problem/11053) | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [18809](https://www.acmicpc.net/problem/18809) | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) |
+
 ## 2022/09/10 
 
 | 난이도 | 번호 | 문제 이름 |
