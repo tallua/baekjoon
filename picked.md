@@ -1,3 +1,12 @@
+## 2022/09/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [7568](https://www.acmicpc.net/problem/7568) | [덩치](https://www.acmicpc.net/problem/7568) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20152](https://www.acmicpc.net/problem/20152) | [Game Addiction](https://www.acmicpc.net/problem/20152) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3184](https://www.acmicpc.net/problem/3184) | [양](https://www.acmicpc.net/problem/3184) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [5875](https://www.acmicpc.net/problem/5875) | [오타](https://www.acmicpc.net/problem/5875) |
+
 ## 2022/09/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2254,7 +2263,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [18312](https://www.acmicpc.net/problem/18312) | [시각](https://www.acmicpc.net/problem/18312) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20438](https://www.acmicpc.net/problem/20438) | [출석체크](https://www.acmicpc.net/problem/20438) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19237](https://www.acmicpc.net/problem/19237) | [어른 상어](https://www.acmicpc.net/problem/19237) |
 
 ## 2022/01/08 
@@ -4261,7 +4270,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1152](https://www.acmicpc.net/problem/1152) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10819](https://www.acmicpc.net/problem/10819) | [차이를 최대로](https://www.acmicpc.net/problem/10819) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
 
 ## 2021/05/30 
