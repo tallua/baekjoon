@@ -1,3 +1,12 @@
+## 2022/10/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [13702](https://www.acmicpc.net/problem/13702) | [이상한 술집](https://www.acmicpc.net/problem/13702) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17086](https://www.acmicpc.net/problem/17086) | [아기 상어 2](https://www.acmicpc.net/problem/17086) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [10427](https://www.acmicpc.net/problem/10427) | [빚](https://www.acmicpc.net/problem/10427) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
+
 ## 2022/10/21 
 
 | 난이도 | 번호 | 문제 이름 |
