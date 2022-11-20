@@ -1,3 +1,12 @@
+## 2022/11/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2160](https://www.acmicpc.net/problem/2160) | [그림 비교](https://www.acmicpc.net/problem/2160) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15787](https://www.acmicpc.net/problem/15787) | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12865](https://www.acmicpc.net/problem/12865) | [평범한 배낭](https://www.acmicpc.net/problem/12865) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20010](https://www.acmicpc.net/problem/20010) | [악덕 영주 혜유](https://www.acmicpc.net/problem/20010) |
+
 ## 2022/11/20 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -939,7 +948,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20053](https://www.acmicpc.net/problem/20053) | [최소, 최대 2](https://www.acmicpc.net/problem/20053) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18513](https://www.acmicpc.net/problem/18513) | [샘터](https://www.acmicpc.net/problem/18513) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
 
@@ -2235,7 +2244,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16719](https://www.acmicpc.net/problem/16719) | [ZOAC](https://www.acmicpc.net/problem/16719) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17780](https://www.acmicpc.net/problem/17780) | [새로운 게임](https://www.acmicpc.net/problem/17780) |
 
@@ -3074,7 +3083,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15270](https://www.acmicpc.net/problem/15270) | [친구 팰린드롬](https://www.acmicpc.net/problem/15270) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [4963](https://www.acmicpc.net/problem/4963) | [섬의 개수](https://www.acmicpc.net/problem/4963) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5547](https://www.acmicpc.net/problem/5547) | [일루미네이션](https://www.acmicpc.net/problem/5547) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [6209](https://www.acmicpc.net/problem/6209) | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [6209](https://www.acmicpc.net/problem/6209) | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) |
 
 ## 2021/12/13 
 
@@ -5054,7 +5063,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [18512](https://www.acmicpc.net/problem/18512) | [점프 점프](https://www.acmicpc.net/problem/18512) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14575](https://www.acmicpc.net/problem/14575) | [뒤풀이](https://www.acmicpc.net/problem/14575) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [8983](https://www.acmicpc.net/problem/8983) | [사냥꾼](https://www.acmicpc.net/problem/8983) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
 
 ## 2021/05/07 
 
@@ -5090,7 +5099,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | [2744](https://www.acmicpc.net/problem/2744) | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4179](https://www.acmicpc.net/problem/4179) | [불!](https://www.acmicpc.net/problem/4179) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4485](https://www.acmicpc.net/problem/4485) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [6209](https://www.acmicpc.net/problem/6209) | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [6209](https://www.acmicpc.net/problem/6209) | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) |
 
 ## 2021/05/03 
 
