@@ -1,3 +1,12 @@
+## 2023/01/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14929](https://www.acmicpc.net/problem/14929) | [귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1927](https://www.acmicpc.net/problem/1927) | [최소 힙](https://www.acmicpc.net/problem/1927) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1965](https://www.acmicpc.net/problem/1965) | [상자넣기](https://www.acmicpc.net/problem/1965) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17822](https://www.acmicpc.net/problem/17822) | [원판 돌리기](https://www.acmicpc.net/problem/17822) |
+
 ## 2023/01/01 
 
 | 난이도 | 번호 | 문제 이름 |
