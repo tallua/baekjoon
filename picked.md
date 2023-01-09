@@ -1,3 +1,12 @@
+## 2023/01/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1244](https://www.acmicpc.net/problem/1244) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1541](https://www.acmicpc.net/problem/1541) | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13975](https://www.acmicpc.net/problem/13975) | [파일 합치기 3](https://www.acmicpc.net/problem/13975) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16986](https://www.acmicpc.net/problem/16986) | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) |
+
 ## 2023/01/09 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -482,7 +491,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [21921](https://www.acmicpc.net/problem/21921) | [블로그](https://www.acmicpc.net/problem/21921) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15666](https://www.acmicpc.net/problem/15666) | [N과 M (12)](https://www.acmicpc.net/problem/15666) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14725](https://www.acmicpc.net/problem/14725) | [개미굴](https://www.acmicpc.net/problem/14725) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14725](https://www.acmicpc.net/problem/14725) | [개미굴](https://www.acmicpc.net/problem/14725) |
 
 ## 2022/11/15 
 
@@ -2624,7 +2633,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [12933](https://www.acmicpc.net/problem/12933) | [오리](https://www.acmicpc.net/problem/12933) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11985](https://www.acmicpc.net/problem/11985) | [오렌지 출하](https://www.acmicpc.net/problem/11985) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9019](https://www.acmicpc.net/problem/9019) | [DSLR](https://www.acmicpc.net/problem/9019) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14725](https://www.acmicpc.net/problem/14725) | [개미굴](https://www.acmicpc.net/problem/14725) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14725](https://www.acmicpc.net/problem/14725) | [개미굴](https://www.acmicpc.net/problem/14725) |
 
 ## 2022/03/22 
 
@@ -5279,7 +5288,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1543](https://www.acmicpc.net/problem/1543) | [문서 검색](https://www.acmicpc.net/problem/1543) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11000](https://www.acmicpc.net/problem/11000) | [강의실 배정](https://www.acmicpc.net/problem/11000) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [12851](https://www.acmicpc.net/problem/12851) | [숨바꼭질 2](https://www.acmicpc.net/problem/12851) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14725](https://www.acmicpc.net/problem/14725) | [개미굴](https://www.acmicpc.net/problem/14725) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14725](https://www.acmicpc.net/problem/14725) | [개미굴](https://www.acmicpc.net/problem/14725) |
 
 ## 2021/05/31 
 
