@@ -1,3 +1,12 @@
+## 2023/01/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11478](https://www.acmicpc.net/problem/11478) | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1713](https://www.acmicpc.net/problem/1713) | [후보 추천하기](https://www.acmicpc.net/problem/1713) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13164](https://www.acmicpc.net/problem/13164) | [행복 유치원](https://www.acmicpc.net/problem/13164) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2900](https://www.acmicpc.net/problem/2900) | [프로그램](https://www.acmicpc.net/problem/2900) |
+
 ## 2023/01/11 
 
 | 난이도 | 번호 | 문제 이름 |
