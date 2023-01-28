@@ -1,3 +1,12 @@
+## 2023/01/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16951](https://www.acmicpc.net/problem/16951) | [블록 놀이](https://www.acmicpc.net/problem/16951) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14852](https://www.acmicpc.net/problem/14852) | [타일 채우기 3](https://www.acmicpc.net/problem/14852) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2473](https://www.acmicpc.net/problem/2473) | [세 용액](https://www.acmicpc.net/problem/2473) |
+
 ## 2023/01/28 
 
 | 난이도 | 번호 | 문제 이름 |
