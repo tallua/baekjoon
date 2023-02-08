@@ -1,3 +1,12 @@
+## 2023/02/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5568](https://www.acmicpc.net/problem/5568) | [카드 놓기](https://www.acmicpc.net/problem/5568) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17390](https://www.acmicpc.net/problem/17390) | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20208](https://www.acmicpc.net/problem/20208) | [진우의 민트초코우유](https://www.acmicpc.net/problem/20208) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2026](https://www.acmicpc.net/problem/2026) | [소풍](https://www.acmicpc.net/problem/2026) |
+
 ## 2023/02/08 
 
 | 난이도 | 번호 | 문제 이름 |
