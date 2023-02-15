@@ -1,3 +1,12 @@
+## 2023/02/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11659](https://www.acmicpc.net/problem/11659) | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16508](https://www.acmicpc.net/problem/16508) | [전공책](https://www.acmicpc.net/problem/16508) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16922](https://www.acmicpc.net/problem/16922) | [로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1726](https://www.acmicpc.net/problem/1726) | [로봇](https://www.acmicpc.net/problem/1726) |
+
 ## 2023/02/15 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1643,7 +1652,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [20546](https://www.acmicpc.net/problem/20546) | [🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [13908](https://www.acmicpc.net/problem/13908) | [비밀번호](https://www.acmicpc.net/problem/13908) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
 
 ## 2022/08/15 
 
@@ -3389,7 +3398,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [16208](https://www.acmicpc.net/problem/16208) | [귀찮음](https://www.acmicpc.net/problem/16208) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [19622](https://www.acmicpc.net/problem/19622) | [회의실 배정 3](https://www.acmicpc.net/problem/19622) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20955](https://www.acmicpc.net/problem/20955) | [민서의 응급 수술](https://www.acmicpc.net/problem/20955) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
 
 ## 2022/02/02 
 
