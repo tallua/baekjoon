@@ -1,3 +1,12 @@
+## 2023/02/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [3273](https://www.acmicpc.net/problem/3273) | [두 수의 합](https://www.acmicpc.net/problem/3273) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [3613](https://www.acmicpc.net/problem/3613) | [Java vs C++](https://www.acmicpc.net/problem/3613) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15961](https://www.acmicpc.net/problem/15961) | [회전 초밥](https://www.acmicpc.net/problem/15961) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1030](https://www.acmicpc.net/problem/1030) | [프렉탈 평면](https://www.acmicpc.net/problem/1030) |
+
 ## 2023/02/26 
 
 | 난이도 | 번호 | 문제 이름 |
