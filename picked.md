@@ -1,3 +1,12 @@
+## 2023/03/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1072](https://www.acmicpc.net/problem/1072) | [게임](https://www.acmicpc.net/problem/1072) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2428](https://www.acmicpc.net/problem/2428) | [표절](https://www.acmicpc.net/problem/2428) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3584](https://www.acmicpc.net/problem/3584) | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16472](https://www.acmicpc.net/problem/16472) | [고냥이](https://www.acmicpc.net/problem/16472) |
+
 ## 2023/03/06 
 
 | 난이도 | 번호 | 문제 이름 |
