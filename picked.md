@@ -1,3 +1,12 @@
+## 2023/03/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1038](https://www.acmicpc.net/problem/1038) | [감소하는 수](https://www.acmicpc.net/problem/1038) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1092](https://www.acmicpc.net/problem/1092) | [배](https://www.acmicpc.net/problem/1092) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1107](https://www.acmicpc.net/problem/1107) | [리모컨](https://www.acmicpc.net/problem/1107) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2602](https://www.acmicpc.net/problem/2602) | [돌다리 건너기](https://www.acmicpc.net/problem/2602) |
+
 ## 2023/03/12 
 
 | 난이도 | 번호 | 문제 이름 |
