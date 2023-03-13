@@ -1,3 +1,12 @@
+## 2023/03/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1469](https://www.acmicpc.net/problem/1469) | [숌 사이 수열](https://www.acmicpc.net/problem/1469) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1484](https://www.acmicpc.net/problem/1484) | [다이어트](https://www.acmicpc.net/problem/1484) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) |
+
 ## 2023/03/13 
 
 | 난이도 | 번호 | 문제 이름 |
