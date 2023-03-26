@@ -1,3 +1,12 @@
+## 2023/03/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2668](https://www.acmicpc.net/problem/2668) | [숫자고르기](https://www.acmicpc.net/problem/2668) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2671](https://www.acmicpc.net/problem/2671) | [잠수함식별](https://www.acmicpc.net/problem/2671) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1753](https://www.acmicpc.net/problem/1753) | [최단경로](https://www.acmicpc.net/problem/1753) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1757](https://www.acmicpc.net/problem/1757) | [달려달려](https://www.acmicpc.net/problem/1757) |
+
 ## 2023/03/26 
 
 | 난이도 | 번호 | 문제 이름 |
