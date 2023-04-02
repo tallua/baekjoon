@@ -1,3 +1,12 @@
+## 2023/04/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17626](https://www.acmicpc.net/problem/17626) | [Four Squares](https://www.acmicpc.net/problem/17626) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11000](https://www.acmicpc.net/problem/11000) | [강의실 배정](https://www.acmicpc.net/problem/11000) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16724](https://www.acmicpc.net/problem/16724) | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |
+
 ## 2023/04/02 
 
 | 난이도 | 번호 | 문제 이름 |
