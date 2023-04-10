@@ -1,3 +1,12 @@
+## 2023/04/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [21313](https://www.acmicpc.net/problem/21313) | [문어](https://www.acmicpc.net/problem/21313) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11722](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20007](https://www.acmicpc.net/problem/20007) | [떡 돌리기](https://www.acmicpc.net/problem/20007) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [13911](https://www.acmicpc.net/problem/13911) | [집 구하기](https://www.acmicpc.net/problem/13911) |
+
 ## 2023/04/10 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1444,7 +1453,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [22864](https://www.acmicpc.net/problem/22864) | [피로도](https://www.acmicpc.net/problem/22864) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11724](https://www.acmicpc.net/problem/11724) | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
 
 ## 2022/10/30 
@@ -2290,7 +2299,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11478](https://www.acmicpc.net/problem/11478) | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17413](https://www.acmicpc.net/problem/17413) | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2023](https://www.acmicpc.net/problem/2023) | [신기한 소수](https://www.acmicpc.net/problem/2023) |
 
 ## 2022/07/28 
@@ -4450,7 +4459,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1966](https://www.acmicpc.net/problem/1966) | [프린터 큐](https://www.acmicpc.net/problem/1966) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) |
 
 ## 2021/11/30 
