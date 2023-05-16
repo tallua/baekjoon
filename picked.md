@@ -1,3 +1,12 @@
+## 2023/05/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [19947](https://www.acmicpc.net/problem/19947) | [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11055](https://www.acmicpc.net/problem/11055) | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16927](https://www.acmicpc.net/problem/16927) | [배열 돌리기 2](https://www.acmicpc.net/problem/16927) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15684](https://www.acmicpc.net/problem/15684) | [사다리 조작](https://www.acmicpc.net/problem/15684) |
+
 ## 2023/05/16 
 
 | 난이도 | 번호 | 문제 이름 |
