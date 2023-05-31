@@ -1,3 +1,12 @@
+## 2023/06/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10870](https://www.acmicpc.net/problem/10870) | [피보나치 수 5](https://www.acmicpc.net/problem/10870) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [10597](https://www.acmicpc.net/problem/10597) | [순열장난](https://www.acmicpc.net/problem/10597) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7576](https://www.acmicpc.net/problem/7576) | [토마토](https://www.acmicpc.net/problem/7576) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16939](https://www.acmicpc.net/problem/16939) | [2×2×2 큐브](https://www.acmicpc.net/problem/16939) |
+
 ## 2023/05/31 
 
 | 난이도 | 번호 | 문제 이름 |
