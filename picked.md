@@ -1,3 +1,12 @@
+## 2023/06/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [14697](https://www.acmicpc.net/problem/14697) | [방 배정하기](https://www.acmicpc.net/problem/14697) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3184](https://www.acmicpc.net/problem/3184) | [양](https://www.acmicpc.net/problem/3184) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18404](https://www.acmicpc.net/problem/18404) | [현명한 나이트](https://www.acmicpc.net/problem/18404) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1655](https://www.acmicpc.net/problem/1655) | [가운데를 말해요](https://www.acmicpc.net/problem/1655) |
+
 ## 2023/06/07 
 
 | 난이도 | 번호 | 문제 이름 |
