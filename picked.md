@@ -1,3 +1,12 @@
+## 2023/06/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [16208](https://www.acmicpc.net/problem/16208) | [귀찮음](https://www.acmicpc.net/problem/16208) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18222](https://www.acmicpc.net/problem/18222) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16719](https://www.acmicpc.net/problem/16719) | [ZOAC](https://www.acmicpc.net/problem/16719) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9470](https://www.acmicpc.net/problem/9470) | [Strahler 순서](https://www.acmicpc.net/problem/9470) |
+
 ## 2023/06/10 
 
 | 난이도 | 번호 | 문제 이름 |
